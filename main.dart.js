@@ -59400,7 +59400,9 @@ A.a3t.prototype={
 $1(a){return new A.dI(B.yx,A.aaO(a,B.Ko),null)},
 $S:434}
 A.nh.prototype={
-T(a){var s,r,q,p=null,o=this.c,n=o.j(0,"latitude"),m=o.j(0,"longitude")
+T(a){var s,r,q,p=null,o=this.c
+o.j(0,"latitude")
+o.j(0,"longitude")
 o=A.acE(p,p,B.L1)
 s=A.c(["a","b","c"],t.s)
 r=self
@@ -59417,7 +59419,7 @@ s.w=0
 r=s.y=0
 s.as=r
 s.r=256
-return A.afv(o,new A.rz(A.c([s,new A.Cf(A.c([new A.nM(new A.eq(n,m),B.z6,50,50)],t._I),p)],t.d),new A.nK(new A.eq(n,m),15,0),p))}}
+return A.afv(o,new A.rz(A.c([s,new A.Cf(A.c([new A.nM(new A.eq(10.904048600061039,76.8983838821322),B.z6,50,50)],t._I),p)],t.d),new A.nK(new A.eq(10.904048600061039,76.8983838821322),15,0),p))}}
 A.Xg.prototype={
 O8(a){$.ee().m(0,this,a)}}
 A.aZ.prototype={
