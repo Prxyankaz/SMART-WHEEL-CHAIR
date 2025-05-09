@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "735773830550",
+    "firebase_url": "https://mpu6050-93957-default-rtdb.firebaseio.com",
+    "project_id": "mpu6050-93957",
+    "storage_bucket": "mpu6050-93957.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735773830550:android:c9b541578543a496cd81b7",
+        "android_client_info": {
+          "package_name": "com.example.smart_wheelchair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk9Udj26yhtmcMNA8hp01RzdpRPDbDPgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
