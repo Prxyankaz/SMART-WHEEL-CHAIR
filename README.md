@@ -142,7 +142,7 @@ This Smart Wheelchair system integrates real-time **fall detection**, **vital si
 
 * Harini Priyanka W (CB.EN.U4CSE22018)
 * Mogitha S M (CB.EN.U4CSE22027)
-* **Prahalyaa A** (CB.EN.U4CSE22432)
+* Prahalyaa A (CB.EN.U4CSE22432)
 
 ---
 
